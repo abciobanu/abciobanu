@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Andrei 👋
 
-<!--
-**abciobanu/abciobanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-@abciobanu-0a66c2)](https://www.linkedin.com/in/abciobanu)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-@abciobanu-1d9bf0)](https://twitter.com/abciobanu)
+[![Mastodon Badge](https://img.shields.io/badge/Mastodon-@abciobanu-595aff)](https://hachyderm.io/@abciobanu)
+[![E-mail Badge](https://img.shields.io/badge/E--mail-cb.andreibogdan@gmail.com-0c2543)](mailto:cb.andreibogdan@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Undergraduate student, eager to explore and experiment. Interested in all things technology.
+- 🎾 Follower of all sports, I enjoy talking day and night about any sport and the world around it.
+- 🚲 Single-speed bike owner, I would want to ride my bike more than I have lately (timeless fact, I always say it, I always find excuses).
+- 🏔 I love everything about the mountains: the fresh, cold air, the nature, the scenery. Not surprisingly, winter is my favourite.
+- 💬 I'm always delighted to meet new and genuine people and listen to their ambitions, beliefs and life stories.
