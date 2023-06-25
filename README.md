@@ -7,6 +7,6 @@
 
 - 🔭 Undergraduate student, eager to explore and experiment. Interested in all things technology.
 - 🎾 Follower of all sports, I enjoy talking day and night about any sport and the world around it.
-- 🚲 Single-speed bike owner, I would want to ride my bike more than I have lately (timeless fact, I always say it, I always find excuses).
-- 🏔 I love everything about the mountains: the fresh, cold air, the nature, the scenery. Not surprisingly, winter is my favourite.
+- 🚲 Single-speed bike owner, I'd like to ride my bike more than I have lately (timeless fact, I always say it, I always make excuses).
+- 🏔 I love everything about the mountains: the fresh, cold air, the nature, the scenery. Not surprisingly, winter is my favorite.
 - 💬 I'm always delighted to meet new and genuine people and listen to their ambitions, beliefs and life stories.
