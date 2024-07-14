@@ -5,7 +5,8 @@
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-@abciobanu-595aff)](https://hachyderm.io/@abciobanu)
 [![E-mail Badge](https://img.shields.io/badge/E--mail-cb.andreibogdan@gmail.com-0c2543)](mailto:cb.andreibogdan@gmail.com)
 
-- 🔭 Undergraduate student, eager to explore and experiment. Interested in all things technology.
+- 👨🏻‍💻 Passionate about leveraging data to drive innovation and solve complex challenges.
+- 🔭 Eager to explore and experiment. Interested in all things technology.
 - 🎾 Follower of all sports, I enjoy talking day and night about any sport and the world around it.
 - 🚲 Single-speed bike owner, I'd like to ride my bike more than I have lately (timeless fact, I always say it, I always make excuses).
 - 🏔 I love everything about the mountains: the fresh, cold air, the nature, the scenery. Not surprisingly, winter is my favorite.
