@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrei! 👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-@abciobanu-0a66c2)](https://www.linkedin.com/in/abciobanu)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-@abciobanu-1d9bf0)](https://twitter.com/abciobanu)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-@abciobanu-1d9bf0)](https://x.com/abciobanu)
 [![Bluesky Badge](https://img.shields.io/badge/Bluesky-@abciobanu-1d9bf0)](https://bsky.app/profile/abciobanu.bsky.social)
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-@abciobanu-595aff)](https://hachyderm.io/@abciobanu)
 [![E-mail Badge](https://img.shields.io/badge/E--mail-cb.andreibogdan@gmail.com-0c2543)](mailto:cb.andreibogdan@gmail.com)
