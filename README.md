@@ -1,4 +1,4 @@
-### Hi there, I'm Andrei! 👋
+### Hi there, I'm Andrei! 👋🏼
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-@abciobanu-0a66c2)](https://www.linkedin.com/in/abciobanu)
 [![X Badge](https://img.shields.io/badge/X-@abciobanu-000000)](https://x.com/abciobanu)
